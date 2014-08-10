@@ -4,7 +4,7 @@
 
  
   <div class="row">
-     <div class="large-12 columns">
+      <div class="large-12 columns">
     <div id="slider">
       <!-- <img src="http://placehold.it/1000x400&text=[ img 1 ]"/> -->
       <?php include("inc/slider.inc"); ?>
