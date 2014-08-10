@@ -2,8 +2,6 @@
 
 <!-- Main Page Content -->
 
-
- 
   <div class="row">
       <div class="large-12 columns">
     <div id="slider">
