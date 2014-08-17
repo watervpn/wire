@@ -7,10 +7,11 @@
         </div>
         <div class="large-6 columns">
           <ul class="inline-list right">
-            <li><a href="#">Link 1</a></li>
-            <li><a href="#">Link 2</a></li>
-            <li><a href="#">Link 3</a></li>
-            <li><a href="#">Link 4</a></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="store.php" >Store</a></li>
+            <li><a href="support.php" >Support</a></li>
+            <li><a href="contact.php" >Contact</a></li>
+            <li><a href="user.php" >My Account</a></li>
           </ul>
         </div>
       </div>
