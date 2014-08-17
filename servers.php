@@ -13,8 +13,40 @@
 		<li class="tab-title"><a href="#panel2-4">Middle East</a></li>
 	</ul>
 	<div class="tabs-content">
-		<div class="content active" id="panel2-1">
-			<p>First panel content goes here...</p>
+		<div class="content active" id="panel2-1">			
+			<table>
+				<thead>
+					<tr>
+						<th width="200">Table Header</th>
+						<th>Table Header</th>
+						<th width="150">Table Header</th>
+						<th width="150">Table Header</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Kelowna</td>
+						<td>This is longer content Donec id elit non mi porta gravida at eget
+							metus.</td>
+						<td>Content Goes Here</td>
+						<td>Content Goes Here</td>
+					</tr>
+					<tr>
+						<td>Vancouver</td>
+						<td>This is longer Content Goes Here Donec id elit non mi porta
+							gravida at eget metus.</td>
+						<td>Content Goes Here</td>
+						<td>Content Goes Here</td>
+					</tr>
+					<tr>
+						<td>Ontario</td>
+						<td>This is longer Content Goes Here Donec id elit non mi porta
+							gravida at eget metus.</td>
+						<td>Content Goes Here</td>
+						<td>Content Goes Here</td>
+					</tr>
+				</tbody>
+			</table>
 		</div>
 		<div class="content" id="panel2-2">
 			<p>Second panel content goes here...</p>
