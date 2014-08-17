@@ -8,7 +8,7 @@
       <li><a href="store.php" class="button">Store</a></li>
       <li><a href="support.php" class="button">Support</a></li>
       <li><a href="contact.php" class="button">Contact</a></li>
-      <li><a href="#" class="button">My Account</a></li>
+      <li><a href="user.php" class="button">My Account</a></li>
     </ul>
   </div>
 </div> 

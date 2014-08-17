@@ -17,7 +17,7 @@ $preview_uri = (isset($_SESSION['origin_uri'])) ? $_SESSION['origin_uri'] : '';
 
 
 //protect profile
-if($uri == 'protected-page') {
+if($uri == 'user') {
 
   //only allow defined role to access profile page
   if (($role == 'loggin_user' || $role == 'admin') && $uri == $preview_uri) {
@@ -25,7 +25,7 @@ if($uri == 'protected-page') {
   }else{
     //redirect only previews uri is not the same as the current one
     $_SESSION['origin_uri'] = $uri;
-    header("Location: user.php");
+    header("Location: login.php");
   }
 }
 
