@@ -7,8 +7,9 @@ if (isset($_POST['username'])) {
     case 'admin':
       $_GET['dest'] = 'user';
       break;
-    case 'customer':
-      $_GET['dest'] = 'user';
+
+    case 'user':
+      $_GET['dest'] = 'support';
       break;
   }
 
