@@ -53,8 +53,10 @@
 
 
 /****************** Main ********************/
-.nav {
-	margin-top: 10px;
+$color1: #4bb7c7; //teal
+$color2: #94bf22; //green
+.clearfix {
+	clear: both;
 }
 
 .user_menu {
@@ -67,6 +69,62 @@
 .tabs, .tabs-content{
 	padding: 0 15px;
 }
+
+.header_section {
+	background-color: $color1;
+	border-bottom: 2px solid #dadada;
+	position: fixed;
+	z-index: 99;
+	width:100%;
+
+	.nav {
+		margin-top: 10px;
+		.button {
+			background-color: $color2;
+		}
+	}
+	.logo {
+		margin: 10px 0;
+	}
+}
+
+.slider_section {
+	background-color: $color1;
+}
+
+.pod_section {
+	.status {
+		img {
+			margin-top: 20px;
+		}
+	}
+}
+
+.cta {
+
+	background-color: $color1;
+	.cta_heading, .cta_button {
+		margin: 0 auto;
+	}
+
+	.cta_heading {
+		margin-top: 20px;
+		h4, p {
+			color: #FFF;
+			text-align: center;
+		}
+	}
+
+	.cta_button {
+		margin-bottom: 20px;
+		.button {
+			background-color: $color2;
+			margin: 0 auto;
+			width: 100%;
+		}
+	}
+}
+
 
 footer {
 	.badge {
