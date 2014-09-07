@@ -8068,3 +8068,12 @@ th.hide-for-touch {
 .tabs, .tabs-content {
   padding: 0 15px;
 }
+
+/* line 73, ../scss/app.scss */
+footer .badge .logo {
+  width: 50%;
+}
+/* line 80, ../scss/app.scss */
+footer .copyright {
+  margin: 10px auto;
+}

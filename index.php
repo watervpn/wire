@@ -15,22 +15,27 @@
   
  
   <div class="row">
-    <div class="large-4 columns">
-      <img src="http://placehold.it/400x300&text=[img]"/>
-      <h4>Hello this is a content section.</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+    <div class="status large-4 columns">
+      <img src="http://placehold.it/50x50&text=[img]"/>
+      <h4>Total Servers:</h4>
+      <ul>
+        <li>Canada: 3</li>
+        <li>US: 5</li>
+        <li>Asia: 3</li>
+        <li>Europe: 2</li>
+      </ul>
     </div>
     
     <div class="large-4 columns">
-      <img src="http://placehold.it/400x300&text=[img]"/>
-      <h4>This is a content section.</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <img src="http://placehold.it/50x50&text=[img]"/>
+      <h4>Total bendwidth aviable:</h4>
+      <p>200,000 MB</p>
     </div>
     
     <div class="large-4 columns">
-      <img src="http://placehold.it/400x300&text=[img]"/>
-      <h4>This is a content section.</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <img src="http://placehold.it/50x50&text=[img]"/>
+      <h4>Fastest connection:</h4>
+      <p>on August 31st 2014, Canada. 140MB by anynonmouse user.</p>
     </div>
   
   </div>

@@ -1,20 +1,20 @@
 <ul class="example-orbit" data-orbit>
   <li>
-    <img src="http://placehold.it/1000x400&text=[ Slider image 1 ]" />
+    <img src="http://placehold.it/1000x400&text=[ WaterVPN a tranparent VPN provider ]" />
     <div class="orbit-caption">
-      Caption One.
+      We run this company like no others.
     </div>
   </li>
   <li class="active">
-    <img src="http://placehold.it/1000x400&text=[ Slider image 2 ]" />
+    <img src="http://placehold.it/1000x400&text=[ We located in Canada, and we like maple syrup and privacy.]" />
     <div class="orbit-caption">
-      Caption Two.
+      Go Maple syrup.
     </div>
   </li>
   <li>
-    <img src="http://placehold.it/1000x400&text=[ Slider image 3 ]" />
+    <img src="http://placehold.it/1000x400&text=[ Give us feedback, we are listening. ]" />
     <div class="orbit-caption">
-      Caption Three.
+      You feedback are important to us.
     </div>
   </li>
 </ul>

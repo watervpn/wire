@@ -4,7 +4,7 @@
 		<a href="logout.php" class="button right">Logout</a>
 		<ul class="nav left">
 			<li class="left"><a class="button" href="servers.php">Server Status</a></li>
-			<li class="left"><a class="button" href="#">Edit Account Info</a></li>
+			<li class="left"><a class="button" href="#">Account Info</a></li>
 		</ul>
 	</div>
 </div>

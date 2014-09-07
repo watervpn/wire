@@ -2,8 +2,8 @@
     <div class="large-12 columns">
       <hr/>
       <div class="row">
-        <div class="large-6 columns">
-          <p>© Copyright no one at all. Go to town.</p>
+        <div class="badge large-6 columns">
+          <img src="/img/badge.png" alt="logo" class="logo" />
         </div>
         <div class="large-6 columns">
           <ul class="inline-list right">
@@ -14,6 +14,9 @@
             <li><a href="user.php" >My Account</a></li>
           </ul>
         </div>
+      </div>
+      <div class="row">
+          <p class="large-4 copyright">© Copyright no one at all. Go to town.</p>
       </div>
     </div> 
   </footer>
