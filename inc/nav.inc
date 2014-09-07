@@ -1,4 +1,4 @@
-<div class="">
+<div class="header_container">
   <div class="header_section">
     <div class="header large-3 columns">
       <h1 class="logo"><img src="http://placehold.it/400x100&text=WaterVPN Logo"/></h1>

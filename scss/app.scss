@@ -70,12 +70,17 @@ $color2: #94bf22; //green
 	padding: 0 15px;
 }
 
+.header_container {
+	height: 100px;
+}
+
 .header_section {
 	background-color: $color1;
 	border-bottom: 2px solid #dadada;
 	position: fixed;
 	z-index: 99;
 	width:100%;
+	// margin-top: 200px;
 
 	.nav {
 		margin-top: 10px;
