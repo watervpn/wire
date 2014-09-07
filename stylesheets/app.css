@@ -8054,6 +8054,17 @@ th.hide-for-touch {
 /****************** Mixins ********************/
 /****************** Main ********************/
 /* line 56, ../scss/app.scss */
-body {
-  color: red;
+.nav {
+  margin-top: 10px;
+}
+
+/* line 61, ../scss/app.scss */
+.user_menu .nav {
+  list-style: none;
+  margin: 0;
+}
+
+/* line 67, ../scss/app.scss */
+.tabs, .tabs-content {
+  padding: 0 15px;
 }

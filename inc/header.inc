@@ -54,7 +54,7 @@ function get_last_URI($uri) {
     <title>Water VPN</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="webicons/webicons.css" />
-    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="stylesheets/app.css" />
     <link rel="stylesheet" href="css/local.css" />
     <link rel="shortcut icon" type="image/ico" href="img/favicon.ico" />
     <script src="js/vendor/modernizr.js"></script>

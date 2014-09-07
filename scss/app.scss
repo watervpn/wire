@@ -53,6 +53,17 @@
 
 
 /****************** Main ********************/
-body {
-	color:red;
+.nav {
+	margin-top: 10px;
+}
+
+.user_menu {
+	.nav {
+		list-style: none;
+		margin: 0;
+	}
+}
+
+.tabs, .tabs-content{
+	padding: 0 15px;
 }

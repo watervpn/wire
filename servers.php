@@ -5,9 +5,9 @@
 <div class="row">
 	
 	<ul class="tabs" data-tab>
-		<li class="tab-title active"><a href="#panel2-1">North America</a></li>
-		<li class="tab-title"><a href="#panel2-4">South America</a></li>
-		<li class="tab-title"><a href="#panel2-2">Asia</a></li>
+		<li class="tab-title active"><a href="#panel2-1">Canada(5)</a></li>
+		<li class="tab-title"><a href="#panel2-4">America(10)</a></li>
+		<li class="tab-title"><a href="#panel2-2">Hong Kong (3)</a></li>
 		<li class="tab-title"><a href="#panel2-3">Europe</a></li>
 		<li class="tab-title"><a href="#panel2-4">Africa</a></li>
 		<li class="tab-title"><a href="#panel2-4">Middle East</a></li>
