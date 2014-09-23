@@ -12,7 +12,7 @@
     </div>
   </div>
 </div>
- 
+   
 <div class="pod_section">
   <div class="row">
     <div class="status large-4 columns">
