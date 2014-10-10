@@ -17,7 +17,7 @@
   <div class="row">
     <div class="status large-4 columns">
       <img src="http://placehold.it/200x200&text=[img]"/>
-      <h4>Total Servers:</h4>
+      <h4>Total Servers::</h4>
       <ul>
         <li>Canada: 3</li>
         <li>US: 5</li>
