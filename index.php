@@ -1,6 +1,6 @@
 <?php include("inc/header.inc"); ?>
 
-
+Hello world!!!!
 <!-- Main Page Content -->
 <div class="slider_section">
   <div class="row">
